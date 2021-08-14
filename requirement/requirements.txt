@@ -1,0 +1,6 @@
+allure-pytest==2.9.43
+selenium== 3.141.0
+pytest==6.2.4
+pytest-html==3.1.1
+allure-python-commons==2.9.43
+webdriver-manager==3.4.2
